@@ -18,7 +18,7 @@ import vueLogo from '../assets/tech/veu.png'
 import nodeLogo from '../assets/tech/NodeJS.svg'
 import expressLogo from '../assets/tech/express.png'
 import pythonLogo from '../assets/tech/Python.svg'
-import javaLogo from '../assets/tech/java.svg'
+import javaLogo from '../assets/tech/Java.svg'
 import djangoLogo from '../assets/tech/django.svg'
 
 /* DATABASE */
