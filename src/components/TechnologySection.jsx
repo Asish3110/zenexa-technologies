@@ -3,21 +3,21 @@
 import { useState } from 'react'
 
 /* FRONTEND */
-import htmlLogo from '../assets/tech/html.png'
+import htmlLogo from '../assets/tech/Html.png'
 import cssLogo from '../assets/tech/css.png'
-import reactLogo from '../assets/tech/react.png'
+import reactLogo from '../assets/tech/React.png'
 import nextjsLogo from '../assets/tech/next-js.svg'
 import tailwindLogo from '../assets/tech/tailwindcss.png'
 import jsLogo from '../assets/tech/javascript.png'
 import tsLogo from '../assets/tech/typescript.svg'
-import angularLogo from '../assets/tech/angular.png'
+import angularLogo from '../assets/tech/Angular.png'
 import bootstrapLogo from '../assets/tech/bootstrap.png'
 import vueLogo from '../assets/tech/veu.png'
 
 /* BACKEND */
-import nodeLogo from '../assets/tech/nodeJS.svg'
+import nodeLogo from '../assets/tech/NodeJS.svg'
 import expressLogo from '../assets/tech/express.png'
-import pythonLogo from '../assets/tech/python.svg'
+import pythonLogo from '../assets/tech/Python.svg'
 import javaLogo from '../assets/tech/java.svg'
 import djangoLogo from '../assets/tech/django.svg'
 
@@ -28,7 +28,7 @@ import postgresLogo from '../assets/tech/postgresql.png'
 import oracleLogo from '../assets/tech/oracle.png'
 
 /* AI ML */
-import aiPythonLogo from '../assets/tech/python.svg'
+import aiPythonLogo from '../assets/tech/Python.svg'
 import tensorflowLogo from '../assets/tech/tensorflow.svg'
 import pytorchLogo from '../assets/tech/pytorch.svg'
 import openaiLogo from '../assets/tech/openai.svg'
