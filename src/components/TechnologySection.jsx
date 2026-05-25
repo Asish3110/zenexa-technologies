@@ -5,7 +5,7 @@ import { useState } from 'react'
 /* FRONTEND */
 import htmlLogo from '../assets/tech/Html.png'
 import cssLogo from '../assets/tech/css.png'
-import reactLogo from '../assets/tech/react.png'
+import reactLogo from '../assets/tech/react.svg'
 import nextjsLogo from '../assets/tech/next-js.svg'
 import tailwindLogo from '../assets/tech/tailwindcss.png'
 import jsLogo from '../assets/tech/javascript.png'
