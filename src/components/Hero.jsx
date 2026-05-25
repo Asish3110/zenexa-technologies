@@ -4,7 +4,7 @@ import hero1 from '../assets/images/hero-bg-1.jpg'
 import hero2 from '../assets/images/hero-bg-2.jpg'
 
 import laptop from '../assets/images/banner_laptop.svg'
-import chart1 from '../assets/images/chart1.gif'
+import chart1 from '../assets/images/Chart1.gif'
 import chart2 from '../assets/images/chart2.gif'
 
 function Hero() {
